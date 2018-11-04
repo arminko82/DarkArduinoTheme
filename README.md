@@ -1,4 +1,6 @@
-![screenshot](https://raw.githubusercontent.com/jeffThompson/DarkArduinoTheme/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/jeffThompson/DarkArduinoTheme/master/screenshot.png)*Dark Theme without Dark Mode*
+
+![screenshot](https://raw.githubusercontent.com/arminko82/DarkArduinoTheme/master/screenshot2.png)*Dark Theme with Dark Mode*
 
 Dark Arduino Theme + Dark Mode for MacOs
 ========================================
