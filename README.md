@@ -3,26 +3,26 @@
 Dark Arduino Theme + Dark Mode for MacOs
 ========================================
 
-# INTRODUCTION
+### INTRODUCTION
 
 In addition for the forked project "Dark Arduino Theme" this project provides
 a tweak to present the Arduino IDE completely in Dark Mode which has been
 brought to you as a feature of MacOS Mojave.
 Two scripts allow enabling/disabling Dark Mode.
 
-# PREREQUISITES
+### PREREQUISITES
     * Arduino IDE 1.8.5+
     * MacOS Mojave+
 
-# HOWTO
+### HOWTO
     * Script DarkModeScript/enableDarkMode.sh enables DarkMode and starts IDE
     * Script DarkModeScript/disableDarkMode.sh restores original
 
 DarkModeScript/files contains the original and altered state of Arduino's Info.plist
 
 
-The later description contains the forked project Dark Arduino Theme by
-https://github.com/jeffThompson/DarkArduinoTheme
+*The later description contains the forked project Dark Arduino Theme by
+https://github.com/jeffThompson/DarkArduinoTheme*
 
 Revised for Arduino version 1.8.5+, not tested with earlier versions.
 
